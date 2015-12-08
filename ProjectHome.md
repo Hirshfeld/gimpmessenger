@@ -1,0 +1,1 @@
+A simple android based SMS messenger with location tagging.
